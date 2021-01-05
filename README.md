@@ -1,7 +1,7 @@
 # spotify_player.py
 This script implements the app functionality. In order to run, the user must have the most recent (2.16.1) version of Spotipy installed in their Python 3 environment.
 
-#spotify_graphics.py
+# spotify_graphics.py
 This script implements the GUI. This displays the current song name, artist, and album.
 
 # graphics.py
