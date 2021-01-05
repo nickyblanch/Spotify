@@ -9,10 +9,10 @@ from graphics import graphics
 def setup():
     # Login to Spotify
     scope = 'user-read-currently-playing, user-modify-playback-state, playlist-read-private'
-    cid = '2d9136999f6046ad81e9fcf4fb15ca04'
-    secret = '6ad44cf128154a0cb6ec8f244de084b7'
-    username = 'nickyblanch-us'
-    my_url = 'http://nickyblanch.xyz'
+    cid = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    username = 'xxxxxxxxx'
+    my_url = 'any url'
 
     # Generate token (currently unused)
     token = util.prompt_for_user_token(username, scope, cid, secret, my_url)
